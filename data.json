@@ -1,0 +1,76 @@
+[
+  {
+    "jilla": "Kathmandu",
+    "gabisha": "Balaju",
+    "ban_ko_nam": "Nagarjun",
+    "plot_number": "2",
+    "plot_ko_prakar": "Good",
+    "plot_ko_size": "1200",
+    "miti": "12/12/2024",
+    "mohada": "123",
+    "akshyansha": "123.1",
+    "desantar": "12312",
+    "uchai": "4543",
+    "bhiralopan": "123",
+    "ban_ko_prakar": "Good",
+    "mato_ko_rang": "Red",
+    "mukhya_prajati": "Triger",
+    "mato_ko_banawat": "Good",
+    "comData": [
+      {
+        "staniya": "Goldhunga",
+        "naam": "Abhishek",
+        "cluster": "Brahmin",
+        "tilar": "123",
+        "uchai": "asd",
+        "taja": "ASDA",
+        "sukeko": "ASDAS"
+      },
+      {
+        "staniya": "",
+        "naam": "",
+        "cluster": "",
+        "tilar": "",
+        "uchai": "",
+        "taja": "",
+        "sukeko": ""
+      },
+      {
+        "staniya": "",
+        "naam": "",
+        "cluster": "",
+        "tilar": "",
+        "uchai": "",
+        "taja": "",
+        "sukeko": ""
+      },
+      {
+        "staniya": "",
+        "naam": "",
+        "cluster": "",
+        "tilar": "",
+        "uchai": "",
+        "taja": "",
+        "sukeko": ""
+      },
+      {
+        "staniya": "",
+        "naam": "",
+        "cluster": "",
+        "tilar": "",
+        "uchai": "",
+        "taja": "",
+        "sukeko": ""
+      },
+      {
+        "staniya": "",
+        "naam": "",
+        "cluster": "",
+        "tilar": "",
+        "uchai": "",
+        "taja": "",
+        "sukeko": ""
+      }
+    ]
+  }
+]
